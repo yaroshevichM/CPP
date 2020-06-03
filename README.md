@@ -6,6 +6,6 @@ To solved tasks are used
 - CSS
 - JS
 
-![Alt text](/screenshots/lab1 "Lab1")
-![Alt text](/screenshots/lab2 "Lab2")
-![Alt text](/screenshots/lab3 "Lab3")
+![Alt text](./screenshots/lab1 "Lab1")
+![Alt text](./screenshots/lab2 "Lab2")
+![Alt text](./screenshots/lab3 "Lab3")
