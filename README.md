@@ -6,6 +6,6 @@ To solved tasks are used
 - CSS
 - JS
 
-![Alt text](https://github.com/yaroshevichM/CPP/tree/master/screenshots/lab1)
-![Alt text](https://github.com/yaroshevichM/CPP/tree/master/screenshots/lab2)
-![Alt text](https://github.com/yaroshevichM/CPP/tree/master/screenshots/lab3)
+![Alt text](https://github.com/yaroshevichM/CPP/tree/master/screenshots/lab1.png)
+![Alt text](https://github.com/yaroshevichM/CPP/tree/master/screenshots/lab2.png)
+![Alt text](https://github.com/yaroshevichM/CPP/tree/master/screenshots/lab3.png)
