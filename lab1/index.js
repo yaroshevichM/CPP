@@ -3,8 +3,9 @@ const readlineSync = require('readline-sync');
 start();
 
 function start() {
-
+    
     const computerNumber = generateRandomNumber(0, 9, 4);
+    console.log(computerNumber);
     guessComputerNumber(computerNumber);
 
 }
